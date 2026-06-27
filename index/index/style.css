@@ -1,0 +1,30 @@
+body {
+  background-color: #111a3d;
+  text-align: center;
+  color: white;
+}
+header {
+  border: 2px solid #89a8ff;
+}
+
+h2 {
+  color: #ffd36e;
+  font-size: 28px;
+}
+
+
+img {
+  width: 350px;
+}
+
+footer {
+  border: 2px solid #89a8ff;
+}
+
+p{
+  font-size:16px;
+}
+
+a {
+  color:aqua;
+}
